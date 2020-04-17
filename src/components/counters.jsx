@@ -24,3 +24,5 @@ class Counters extends Component {
   }
 }
 export default Counters;
+//HAHAH Got this shit on lock!
+//Changed this again
